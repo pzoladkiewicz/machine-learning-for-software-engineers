@@ -1,3 +1,17 @@
+## Status Portfolio
+
+**Ten projekt jest częścią mojego historycznego portfolio** i został zarchivizowany w październiku 2025 w ramach reorganizacji profilu GitHub.
+
+**Aby zobaczyć moje aktualne prace i kluczowe projekty**, zapraszam na:  
+👉 **[Profil główny GitHub](https://github.com/pzoladkiewicz)** - przypięte repozytoria  
+👉 **[Profil LinkedIn](https://linkedin.com/in/pzoladkiewicz)** - aktualny status zawodowy  
+
+---
+---
+
+ 
+
+ 
 # Top-down learning path: Machine Learning for Software Engineers
 
 <p align="center">
